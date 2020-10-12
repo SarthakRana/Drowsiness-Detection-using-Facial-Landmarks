@@ -50,6 +50,7 @@ python3 drowsiness_detector.py --shape_predictor <Enter PATH to shape_predictor.
 
 ## Output
 Here are some screenshots from the project:
+
 ![](https://github.com/SarthakRana/Drowsiness-Detection-using-Facial-Landmarks/blob/master/Screenshots/op1.png)
 ![](https://github.com/SarthakRana/Drowsiness-Detection-using-Facial-Landmarks/blob/master/Screenshots/op2.png)
 
