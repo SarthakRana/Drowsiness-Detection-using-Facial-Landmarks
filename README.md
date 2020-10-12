@@ -1,6 +1,6 @@
 # Drowsiness Detection using Facial Landmarks
 
-**Here is the link to the demo video - https://bit.ly/33Ovn8O**
+## Here is the link to the demo video - https://bit.ly/33Ovn8O
 
 ![](https://www.optalert.com/wp-content/uploads/Drowsy-Driver.jpg)
 
