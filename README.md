@@ -1,5 +1,7 @@
 # Drowsiness Detection using Facial Landmarks
 
+**Here is the link to the demo video - https://bit.ly/33Ovn8O**
+
 ![](https://www.optalert.com/wp-content/uploads/Drowsy-Driver.jpg)
 
 A drowsiness detector which will detect drowsiness in a driver and sound an alarm if the driver has started to doze off. The dozing is measured using EAR and a frame threshold to know if sufficient time has passed or not while the driver has dozed off. The 2 main concepts used in this project are :
@@ -45,6 +47,11 @@ gitclone https://github.com/SarthakRana/Drowsiness-Detection-using-Facial-Landma
 ```
 python3 drowsiness_detector.py --shape_predictor <Enter PATH to shape_predictor.dat file> --alarm <Enter PATH to the mp3 file>
 ```
+
+## Output
+Here are some screenshots from the project:
+![](https://github.com/SarthakRana/Drowsiness-Detection-using-Facial-Landmarks/blob/master/Screenshots/op1.png)
+![](https://github.com/SarthakRana/Drowsiness-Detection-using-Facial-Landmarks/blob/master/Screenshots/op2.png)
 
 ## Roadmap
 
